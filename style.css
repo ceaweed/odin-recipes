@@ -1,0 +1,50 @@
+body {
+    background-color: antiquewhite;
+}
+
+#homeHeader {
+    font-size: 80px;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#nonBulletList {
+    list-style: none;
+}
+
+.recipeList {
+    font-size: 50px;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.recipeTitle {
+    font-size: 65px;
+    font-weight: bold;
+    color: darkslategray;
+    text-align: center;
+    font-style: italic;
+}
+
+.description {
+    text-align: center;
+    font-size: 50px;
+}
+
+.ingredients {
+    font-size: 50px;
+}
+
+.descriptionPara {
+    font-size: 25px;
+    text-align: center;
+}
+
+.recipeImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
